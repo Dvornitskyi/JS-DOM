@@ -8,7 +8,7 @@ const newPhoneAustraliaOnClicks = (newPhoneAustralia = "07-1111-1111") => {
         telsx.children[1].innerText = newPhoneAustralia;
  }
 }
-// newPhoneAustraliaOnClicks(); //для проверки раскомментировать 
+newPhoneAustraliaOnClicks(); //для проверки раскомментировать 
                                 //в () можно вписать любой номер телефона
 
 //----------функция для замены телефона и href по клику РАБОТАЕТ ОДИН РАЗ
